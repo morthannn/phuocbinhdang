@@ -2,7 +2,7 @@
 
 ## <div align="center">Programing Languages</div> 
 
-[![Programing Languages](https://skillicons.dev/icons?i=js,ts,py,cs)](https://skillicons.dev)
+<div align="center">[![Programing Languages](https://skillicons.dev/icons?i=js,ts,py,cs)](https://skillicons.dev)</div> 
 
 ## <div align="center">Backend Frameworks</div> 
 
